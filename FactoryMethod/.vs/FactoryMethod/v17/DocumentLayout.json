@@ -1,29 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "F:\\Douglas\\Estudo\\t\\design-patterns-dotnet-study\\FactoryMethod\\",
+  "WorkspaceRootPath": "C:\\Users\\dsantos\\source\\repos\\design-patterns-dotnet-study\\FactoryMethod\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{842C1007-C132-477B-ACA6-18D3CF2C3752}|FactoryMethod\\FactoryMethod.csproj|f:\\douglas\\estudo\\t\\design-patterns-dotnet-study\\factorymethod\\factorymethod\\factories\\csvrelatoriofactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{842C1007-C132-477B-ACA6-18D3CF2C3752}|FactoryMethod\\FactoryMethod.csproj|solutionrelative:factorymethod\\factories\\csvrelatoriofactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{842C1007-C132-477B-ACA6-18D3CF2C3752}|FactoryMethod\\FactoryMethod.csproj|f:\\douglas\\estudo\\t\\design-patterns-dotnet-study\\factorymethod\\factorymethod\\models\\csvrelatorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{842C1007-C132-477B-ACA6-18D3CF2C3752}|FactoryMethod\\FactoryMethod.csproj|solutionrelative:factorymethod\\models\\csvrelatorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{842C1007-C132-477B-ACA6-18D3CF2C3752}|FactoryMethod\\FactoryMethod.csproj|f:\\douglas\\estudo\\t\\design-patterns-dotnet-study\\factorymethod\\factorymethod\\models\\excelrelatorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{842C1007-C132-477B-ACA6-18D3CF2C3752}|FactoryMethod\\FactoryMethod.csproj|solutionrelative:factorymethod\\models\\excelrelatorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{842C1007-C132-477B-ACA6-18D3CF2C3752}|FactoryMethod\\FactoryMethod.csproj|f:\\douglas\\estudo\\t\\design-patterns-dotnet-study\\factorymethod\\factorymethod\\models\\pdfrelatorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{842C1007-C132-477B-ACA6-18D3CF2C3752}|FactoryMethod\\FactoryMethod.csproj|solutionrelative:factorymethod\\models\\pdfrelatorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{842C1007-C132-477B-ACA6-18D3CF2C3752}|FactoryMethod\\FactoryMethod.csproj|f:\\douglas\\estudo\\t\\design-patterns-dotnet-study\\factorymethod\\factorymethod\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{842C1007-C132-477B-ACA6-18D3CF2C3752}|FactoryMethod\\FactoryMethod.csproj|c:\\users\\dsantos\\source\\repos\\design-patterns-dotnet-study\\factorymethod\\factorymethod\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{842C1007-C132-477B-ACA6-18D3CF2C3752}|FactoryMethod\\FactoryMethod.csproj|solutionrelative:factorymethod\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{842C1007-C132-477B-ACA6-18D3CF2C3752}|FactoryMethod\\FactoryMethod.csproj|f:\\douglas\\estudo\\t\\design-patterns-dotnet-study\\factorymethod\\factorymethod\\factories\\pdfrelatoriofactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{842C1007-C132-477B-ACA6-18D3CF2C3752}|FactoryMethod\\FactoryMethod.csproj|c:\\users\\dsantos\\source\\repos\\design-patterns-dotnet-study\\factorymethod\\factorymethod\\models\\pdfrelatorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{842C1007-C132-477B-ACA6-18D3CF2C3752}|FactoryMethod\\FactoryMethod.csproj|solutionrelative:factorymethod\\models\\pdfrelatorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{842C1007-C132-477B-ACA6-18D3CF2C3752}|FactoryMethod\\FactoryMethod.csproj|c:\\users\\dsantos\\source\\repos\\design-patterns-dotnet-study\\factorymethod\\factorymethod\\factories\\pdfrelatoriofactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{842C1007-C132-477B-ACA6-18D3CF2C3752}|FactoryMethod\\FactoryMethod.csproj|solutionrelative:factorymethod\\factories\\pdfrelatoriofactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -39,74 +27,36 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "CsvRelatorioFactory.cs",
-              "DocumentMoniker": "F:\\Douglas\\Estudo\\t\\design-patterns-dotnet-study\\FactoryMethod\\FactoryMethod\\Factories\\CsvRelatorioFactory.cs",
-              "RelativeDocumentMoniker": "FactoryMethod\\Factories\\CsvRelatorioFactory.cs",
-              "ToolTip": "F:\\Douglas\\Estudo\\t\\design-patterns-dotnet-study\\FactoryMethod\\FactoryMethod\\Factories\\CsvRelatorioFactory.cs",
-              "RelativeToolTip": "FactoryMethod\\Factories\\CsvRelatorioFactory.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-08T21:04:39.902Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CsvRelatorio.cs",
-              "DocumentMoniker": "F:\\Douglas\\Estudo\\t\\design-patterns-dotnet-study\\FactoryMethod\\FactoryMethod\\Models\\CsvRelatorio.cs",
-              "RelativeDocumentMoniker": "FactoryMethod\\Models\\CsvRelatorio.cs",
-              "ToolTip": "F:\\Douglas\\Estudo\\t\\design-patterns-dotnet-study\\FactoryMethod\\FactoryMethod\\Models\\CsvRelatorio.cs",
-              "RelativeToolTip": "FactoryMethod\\Models\\CsvRelatorio.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-08T21:04:35.313Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ExcelRelatorio.cs",
-              "DocumentMoniker": "F:\\Douglas\\Estudo\\t\\design-patterns-dotnet-study\\FactoryMethod\\FactoryMethod\\Models\\ExcelRelatorio.cs",
-              "RelativeDocumentMoniker": "FactoryMethod\\Models\\ExcelRelatorio.cs",
-              "ToolTip": "F:\\Douglas\\Estudo\\t\\design-patterns-dotnet-study\\FactoryMethod\\FactoryMethod\\Models\\ExcelRelatorio.cs",
-              "RelativeToolTip": "FactoryMethod\\Models\\ExcelRelatorio.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-08T21:04:34.039Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
               "Title": "Program.cs",
-              "DocumentMoniker": "F:\\Douglas\\Estudo\\t\\design-patterns-dotnet-study\\FactoryMethod\\FactoryMethod\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\dsantos\\source\\repos\\design-patterns-dotnet-study\\FactoryMethod\\FactoryMethod\\Program.cs",
               "RelativeDocumentMoniker": "FactoryMethod\\Program.cs",
-              "ToolTip": "F:\\Douglas\\Estudo\\t\\design-patterns-dotnet-study\\FactoryMethod\\FactoryMethod\\Program.cs",
+              "ToolTip": "C:\\Users\\dsantos\\source\\repos\\design-patterns-dotnet-study\\FactoryMethod\\FactoryMethod\\Program.cs",
               "RelativeToolTip": "FactoryMethod\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-08T03:45:57.642Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "PdfRelatorioFactory.cs",
-              "DocumentMoniker": "F:\\Douglas\\Estudo\\t\\design-patterns-dotnet-study\\FactoryMethod\\FactoryMethod\\Factories\\PdfRelatorioFactory.cs",
+              "DocumentMoniker": "C:\\Users\\dsantos\\source\\repos\\design-patterns-dotnet-study\\FactoryMethod\\FactoryMethod\\Factories\\PdfRelatorioFactory.cs",
               "RelativeDocumentMoniker": "FactoryMethod\\Factories\\PdfRelatorioFactory.cs",
-              "ToolTip": "F:\\Douglas\\Estudo\\t\\design-patterns-dotnet-study\\FactoryMethod\\FactoryMethod\\Factories\\PdfRelatorioFactory.cs",
+              "ToolTip": "C:\\Users\\dsantos\\source\\repos\\design-patterns-dotnet-study\\FactoryMethod\\FactoryMethod\\Factories\\PdfRelatorioFactory.cs",
               "RelativeToolTip": "FactoryMethod\\Factories\\PdfRelatorioFactory.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-08T03:44:50.696Z"
+              "WhenOpened": "2025-08-08T03:44:50.696Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "PdfRelatorio.cs",
-              "DocumentMoniker": "F:\\Douglas\\Estudo\\t\\design-patterns-dotnet-study\\FactoryMethod\\FactoryMethod\\Models\\PdfRelatorio.cs",
+              "DocumentMoniker": "C:\\Users\\dsantos\\source\\repos\\design-patterns-dotnet-study\\FactoryMethod\\FactoryMethod\\Models\\PdfRelatorio.cs",
               "RelativeDocumentMoniker": "FactoryMethod\\Models\\PdfRelatorio.cs",
-              "ToolTip": "F:\\Douglas\\Estudo\\t\\design-patterns-dotnet-study\\FactoryMethod\\FactoryMethod\\Models\\PdfRelatorio.cs",
+              "ToolTip": "C:\\Users\\dsantos\\source\\repos\\design-patterns-dotnet-study\\FactoryMethod\\FactoryMethod\\Models\\PdfRelatorio.cs",
               "RelativeToolTip": "FactoryMethod\\Models\\PdfRelatorio.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
