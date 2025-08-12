@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Douglas\\Estudo\\estudoDesignPatterns\\design-patterns-dotnet-study\\Builder\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E6F8A088-812E-48AD-B68F-0A0576BCCC89}|Builder\\Builder.csproj|f:\\douglas\\estudo\\estudodesignpatterns\\design-patterns-dotnet-study\\builder\\builder\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6F8A088-812E-48AD-B68F-0A0576BCCC89}|Builder\\Builder.csproj|solutionrelative:builder\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6F8A088-812E-48AD-B68F-0A0576BCCC89}|Builder\\Builder.csproj|f:\\douglas\\estudo\\estudodesignpatterns\\design-patterns-dotnet-study\\builder\\builder\\model\\pizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6F8A088-812E-48AD-B68F-0A0576BCCC89}|Builder\\Builder.csproj|solutionrelative:builder\\model\\pizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6F8A088-812E-48AD-B68F-0A0576BCCC89}|Builder\\Builder.csproj|f:\\douglas\\estudo\\estudodesignpatterns\\design-patterns-dotnet-study\\builder\\builder\\builder\\pizzabuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6F8A088-812E-48AD-B68F-0A0576BCCC89}|Builder\\Builder.csproj|solutionrelative:builder\\builder\\pizzabuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PizzaBuilder.cs",
+              "DocumentMoniker": "F:\\Douglas\\Estudo\\estudoDesignPatterns\\design-patterns-dotnet-study\\Builder\\Builder\\Builder\\PizzaBuilder.cs",
+              "RelativeDocumentMoniker": "Builder\\Builder\\PizzaBuilder.cs",
+              "ToolTip": "F:\\Douglas\\Estudo\\estudoDesignPatterns\\design-patterns-dotnet-study\\Builder\\Builder\\Builder\\PizzaBuilder.cs",
+              "RelativeToolTip": "Builder\\Builder\\PizzaBuilder.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowC4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T12:12:03.633Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Pizza.cs",
+              "DocumentMoniker": "F:\\Douglas\\Estudo\\estudoDesignPatterns\\design-patterns-dotnet-study\\Builder\\Builder\\Model\\Pizza.cs",
+              "RelativeDocumentMoniker": "Builder\\Model\\Pizza.cs",
+              "ToolTip": "F:\\Douglas\\Estudo\\estudoDesignPatterns\\design-patterns-dotnet-study\\Builder\\Builder\\Model\\Pizza.cs",
+              "RelativeToolTip": "Builder\\Model\\Pizza.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA0AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T12:10:23.048Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\Douglas\\Estudo\\estudoDesignPatterns\\design-patterns-dotnet-study\\Builder\\Builder\\Program.cs",
+              "RelativeDocumentMoniker": "Builder\\Program.cs",
+              "ToolTip": "F:\\Douglas\\Estudo\\estudoDesignPatterns\\design-patterns-dotnet-study\\Builder\\Builder\\Program.cs",
+              "RelativeToolTip": "Builder\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T12:10:04.602Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
