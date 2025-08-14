@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Douglas\\Estudo\\design-patterns-dotnet-study\\Prototype\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{864808DA-27FF-452E-B837-98714E03A5B8}|Prototype\\Prototype.csproj|f:\\douglas\\estudo\\design-patterns-dotnet-study\\prototype\\prototype\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{864808DA-27FF-452E-B837-98714E03A5B8}|Prototype\\Prototype.csproj|solutionrelative:prototype\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{864808DA-27FF-452E-B837-98714E03A5B8}|Prototype\\Prototype.csproj|f:\\douglas\\estudo\\design-patterns-dotnet-study\\prototype\\prototype\\model\\personagema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{864808DA-27FF-452E-B837-98714E03A5B8}|Prototype\\Prototype.csproj|solutionrelative:prototype\\model\\personagema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{864808DA-27FF-452E-B837-98714E03A5B8}|Prototype\\Prototype.csproj|f:\\douglas\\estudo\\design-patterns-dotnet-study\\prototype\\prototype\\model\\personagem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{864808DA-27FF-452E-B837-98714E03A5B8}|Prototype\\Prototype.csproj|solutionrelative:prototype\\model\\personagem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{864808DA-27FF-452E-B837-98714E03A5B8}|Prototype\\Prototype.csproj|f:\\douglas\\estudo\\design-patterns-dotnet-study\\prototype\\prototype\\model\\arma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{864808DA-27FF-452E-B837-98714E03A5B8}|Prototype\\Prototype.csproj|solutionrelative:prototype\\model\\arma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{864808DA-27FF-452E-B837-98714E03A5B8}|Prototype\\Prototype.csproj|f:\\douglas\\estudo\\design-patterns-dotnet-study\\prototype\\prototype\\interface\\ipersonagemprototype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{864808DA-27FF-452E-B837-98714E03A5B8}|Prototype\\Prototype.csproj|solutionrelative:prototype\\interface\\ipersonagemprototype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Personagem.cs",
+              "DocumentMoniker": "F:\\Douglas\\Estudo\\design-patterns-dotnet-study\\Prototype\\Prototype\\Model\\Personagem.cs",
+              "RelativeDocumentMoniker": "Prototype\\Model\\Personagem.cs",
+              "ToolTip": "F:\\Douglas\\Estudo\\design-patterns-dotnet-study\\Prototype\\Prototype\\Model\\Personagem.cs",
+              "RelativeToolTip": "Prototype\\Model\\Personagem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA8AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T22:14:36.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Arma.cs",
+              "DocumentMoniker": "F:\\Douglas\\Estudo\\design-patterns-dotnet-study\\Prototype\\Prototype\\Model\\Arma.cs",
+              "RelativeDocumentMoniker": "Prototype\\Model\\Arma.cs",
+              "ToolTip": "F:\\Douglas\\Estudo\\design-patterns-dotnet-study\\Prototype\\Prototype\\Model\\Arma.cs",
+              "RelativeToolTip": "Prototype\\Model\\Arma.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T22:14:44.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PersonagemA.cs",
+              "DocumentMoniker": "F:\\Douglas\\Estudo\\design-patterns-dotnet-study\\Prototype\\Prototype\\Model\\PersonagemA.cs",
+              "RelativeDocumentMoniker": "Prototype\\Model\\PersonagemA.cs",
+              "ToolTip": "F:\\Douglas\\Estudo\\design-patterns-dotnet-study\\Prototype\\Prototype\\Model\\PersonagemA.cs",
+              "RelativeToolTip": "Prototype\\Model\\PersonagemA.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T22:14:11.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IPersonagemPrototype.cs",
+              "DocumentMoniker": "F:\\Douglas\\Estudo\\design-patterns-dotnet-study\\Prototype\\Prototype\\Interface\\IPersonagemPrototype.cs",
+              "RelativeDocumentMoniker": "Prototype\\Interface\\IPersonagemPrototype.cs",
+              "ToolTip": "F:\\Douglas\\Estudo\\design-patterns-dotnet-study\\Prototype\\Prototype\\Interface\\IPersonagemPrototype.cs",
+              "RelativeToolTip": "Prototype\\Interface\\IPersonagemPrototype.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T22:13:53.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\Douglas\\Estudo\\design-patterns-dotnet-study\\Prototype\\Prototype\\Program.cs",
+              "RelativeDocumentMoniker": "Prototype\\Program.cs",
+              "ToolTip": "F:\\Douglas\\Estudo\\design-patterns-dotnet-study\\Prototype\\Prototype\\Program.cs",
+              "RelativeToolTip": "Prototype\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T22:10:47.742Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
