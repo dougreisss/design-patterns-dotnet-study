@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Douglas\\Estudo\\estudoDesignPatterns\\design-patterns-dotnet-study\\Facade\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8C4887DE-2196-49DD-8E45-A588B391AFBE}|Facade\\Facade.csproj|f:\\douglas\\estudo\\estudodesignpatterns\\design-patterns-dotnet-study\\facade\\facade\\pedidofacade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C4887DE-2196-49DD-8E45-A588B391AFBE}|Facade\\Facade.csproj|solutionrelative:facade\\pedidofacade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C4887DE-2196-49DD-8E45-A588B391AFBE}|Facade\\Facade.csproj|f:\\douglas\\estudo\\estudodesignpatterns\\design-patterns-dotnet-study\\facade\\facade\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C4887DE-2196-49DD-8E45-A588B391AFBE}|Facade\\Facade.csproj|solutionrelative:facade\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C4887DE-2196-49DD-8E45-A588B391AFBE}|Facade\\Facade.csproj|f:\\douglas\\estudo\\estudodesignpatterns\\design-patterns-dotnet-study\\facade\\facade\\model\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C4887DE-2196-49DD-8E45-A588B391AFBE}|Facade\\Facade.csproj|solutionrelative:facade\\model\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C4887DE-2196-49DD-8E45-A588B391AFBE}|Facade\\Facade.csproj|f:\\douglas\\estudo\\estudodesignpatterns\\design-patterns-dotnet-study\\facade\\facade\\services\\pagamentoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C4887DE-2196-49DD-8E45-A588B391AFBE}|Facade\\Facade.csproj|solutionrelative:facade\\services\\pagamentoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C4887DE-2196-49DD-8E45-A588B391AFBE}|Facade\\Facade.csproj|f:\\douglas\\estudo\\estudodesignpatterns\\design-patterns-dotnet-study\\facade\\facade\\services\\notificacaoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C4887DE-2196-49DD-8E45-A588B391AFBE}|Facade\\Facade.csproj|solutionrelative:facade\\services\\notificacaoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C4887DE-2196-49DD-8E45-A588B391AFBE}|Facade\\Facade.csproj|f:\\douglas\\estudo\\estudodesignpatterns\\design-patterns-dotnet-study\\facade\\facade\\services\\estoqueservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C4887DE-2196-49DD-8E45-A588B391AFBE}|Facade\\Facade.csproj|solutionrelative:facade\\services\\estoqueservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C4887DE-2196-49DD-8E45-A588B391AFBE}|Facade\\Facade.csproj|f:\\douglas\\estudo\\estudodesignpatterns\\design-patterns-dotnet-study\\facade\\facade\\services\\entregaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C4887DE-2196-49DD-8E45-A588B391AFBE}|Facade\\Facade.csproj|solutionrelative:facade\\services\\entregaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Pedido.cs",
+              "DocumentMoniker": "F:\\Douglas\\Estudo\\estudoDesignPatterns\\design-patterns-dotnet-study\\Facade\\Facade\\Model\\Pedido.cs",
+              "RelativeDocumentMoniker": "Facade\\Model\\Pedido.cs",
+              "ToolTip": "F:\\Douglas\\Estudo\\estudoDesignPatterns\\design-patterns-dotnet-study\\Facade\\Facade\\Model\\Pedido.cs",
+              "RelativeToolTip": "Facade\\Model\\Pedido.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA0AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T22:57:50.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NotificacaoService.cs",
+              "DocumentMoniker": "F:\\Douglas\\Estudo\\estudoDesignPatterns\\design-patterns-dotnet-study\\Facade\\Facade\\Services\\NotificacaoService.cs",
+              "RelativeDocumentMoniker": "Facade\\Services\\NotificacaoService.cs",
+              "ToolTip": "F:\\Douglas\\Estudo\\estudoDesignPatterns\\design-patterns-dotnet-study\\Facade\\Facade\\Services\\NotificacaoService.cs",
+              "RelativeToolTip": "Facade\\Services\\NotificacaoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T22:57:11.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EntregaService.cs",
+              "DocumentMoniker": "F:\\Douglas\\Estudo\\estudoDesignPatterns\\design-patterns-dotnet-study\\Facade\\Facade\\Services\\EntregaService.cs",
+              "RelativeDocumentMoniker": "Facade\\Services\\EntregaService.cs",
+              "ToolTip": "F:\\Douglas\\Estudo\\estudoDesignPatterns\\design-patterns-dotnet-study\\Facade\\Facade\\Services\\EntregaService.cs",
+              "RelativeToolTip": "Facade\\Services\\EntregaService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T22:54:52.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EstoqueService.cs",
+              "DocumentMoniker": "F:\\Douglas\\Estudo\\estudoDesignPatterns\\design-patterns-dotnet-study\\Facade\\Facade\\Services\\EstoqueService.cs",
+              "RelativeDocumentMoniker": "Facade\\Services\\EstoqueService.cs",
+              "ToolTip": "F:\\Douglas\\Estudo\\estudoDesignPatterns\\design-patterns-dotnet-study\\Facade\\Facade\\Services\\EstoqueService.cs",
+              "RelativeToolTip": "Facade\\Services\\EstoqueService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T22:54:40.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PagamentoService.cs",
+              "DocumentMoniker": "F:\\Douglas\\Estudo\\estudoDesignPatterns\\design-patterns-dotnet-study\\Facade\\Facade\\Services\\PagamentoService.cs",
+              "RelativeDocumentMoniker": "Facade\\Services\\PagamentoService.cs",
+              "ToolTip": "F:\\Douglas\\Estudo\\estudoDesignPatterns\\design-patterns-dotnet-study\\Facade\\Facade\\Services\\PagamentoService.cs",
+              "RelativeToolTip": "Facade\\Services\\PagamentoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T22:54:27.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PedidoFacade.cs",
+              "DocumentMoniker": "F:\\Douglas\\Estudo\\estudoDesignPatterns\\design-patterns-dotnet-study\\Facade\\Facade\\PedidoFacade.cs",
+              "RelativeDocumentMoniker": "Facade\\PedidoFacade.cs",
+              "ToolTip": "F:\\Douglas\\Estudo\\estudoDesignPatterns\\design-patterns-dotnet-study\\Facade\\Facade\\PedidoFacade.cs",
+              "RelativeToolTip": "Facade\\PedidoFacade.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwCMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T22:54:05.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\Douglas\\Estudo\\estudoDesignPatterns\\design-patterns-dotnet-study\\Facade\\Facade\\Program.cs",
+              "RelativeDocumentMoniker": "Facade\\Program.cs",
+              "ToolTip": "F:\\Douglas\\Estudo\\estudoDesignPatterns\\design-patterns-dotnet-study\\Facade\\Facade\\Program.cs",
+              "RelativeToolTip": "Facade\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T22:50:08.519Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
