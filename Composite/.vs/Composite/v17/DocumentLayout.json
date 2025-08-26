@@ -3,20 +3,24 @@
   "WorkspaceRootPath": "F:\\Douglas\\Estudo\\estudoDesignPatterns\\design-patterns-dotnet-study\\Composite\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5BAE95FB-F194-4D5A-BFDC-CE31EE64FA39}|Composite\\Composite.csproj|f:\\douglas\\estudo\\estudodesignpatterns\\design-patterns-dotnet-study\\composite\\composite\\pastaleaf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5BAE95FB-F194-4D5A-BFDC-CE31EE64FA39}|Composite\\Composite.csproj|solutionrelative:composite\\pastaleaf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\Douglas\\Estudo\\estudoDesignPatterns\\design-patterns-dotnet-study\\Composite\\Composite.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Composite.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5BAE95FB-F194-4D5A-BFDC-CE31EE64FA39}|Composite\\Composite.csproj|f:\\douglas\\estudo\\estudodesignpatterns\\design-patterns-dotnet-study\\composite\\composite\\diretoriocomposite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5BAE95FB-F194-4D5A-BFDC-CE31EE64FA39}|Composite\\Composite.csproj|solutionrelative:composite\\diretoriocomposite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\Douglas\\Estudo\\estudoDesignPatterns\\design-patterns-dotnet-study\\Composite\\Composite\\PastaLeaf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Composite\\PastaLeaf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5BAE95FB-F194-4D5A-BFDC-CE31EE64FA39}|Composite\\Composite.csproj|f:\\douglas\\estudo\\estudodesignpatterns\\design-patterns-dotnet-study\\composite\\composite\\diretorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5BAE95FB-F194-4D5A-BFDC-CE31EE64FA39}|Composite\\Composite.csproj|solutionrelative:composite\\diretorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\Douglas\\Estudo\\estudoDesignPatterns\\design-patterns-dotnet-study\\Composite\\Composite\\Diretorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Composite\\Diretorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5BAE95FB-F194-4D5A-BFDC-CE31EE64FA39}|Composite\\Composite.csproj|f:\\douglas\\estudo\\estudodesignpatterns\\design-patterns-dotnet-study\\composite\\composite\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5BAE95FB-F194-4D5A-BFDC-CE31EE64FA39}|Composite\\Composite.csproj|solutionrelative:composite\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\Douglas\\Estudo\\estudoDesignPatterns\\design-patterns-dotnet-study\\Composite\\Composite\\DiretorioComposite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Composite\\DiretorioComposite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\Douglas\\Estudo\\estudoDesignPatterns\\design-patterns-dotnet-study\\Composite\\Composite\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Composite\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -35,6 +39,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Composite.md",
+              "DocumentMoniker": "F:\\Douglas\\Estudo\\estudoDesignPatterns\\design-patterns-dotnet-study\\Composite\\Composite.md",
+              "RelativeDocumentMoniker": "Composite.md",
+              "ToolTip": "F:\\Douglas\\Estudo\\estudoDesignPatterns\\design-patterns-dotnet-study\\Composite\\Composite.md",
+              "RelativeToolTip": "Composite.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-08-26T02:06:28.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "PastaLeaf.cs",
               "DocumentMoniker": "F:\\Douglas\\Estudo\\estudoDesignPatterns\\design-patterns-dotnet-study\\Composite\\Composite\\PastaLeaf.cs",
               "RelativeDocumentMoniker": "Composite\\PastaLeaf.cs",
@@ -55,12 +72,11 @@
               "RelativeToolTip": "Composite\\Diretorio.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwA0AAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-26T01:02:16.801Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-26T01:02:16.801Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "DiretorioComposite.cs",
               "DocumentMoniker": "F:\\Douglas\\Estudo\\estudoDesignPatterns\\design-patterns-dotnet-study\\Composite\\Composite\\DiretorioComposite.cs",
               "RelativeDocumentMoniker": "Composite\\DiretorioComposite.cs",
@@ -68,12 +84,11 @@
               "RelativeToolTip": "Composite\\DiretorioComposite.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-26T01:01:51.575Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-26T01:01:51.575Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "F:\\Douglas\\Estudo\\estudoDesignPatterns\\design-patterns-dotnet-study\\Composite\\Composite\\Program.cs",
               "RelativeDocumentMoniker": "Composite\\Program.cs",
@@ -81,8 +96,7 @@
               "RelativeToolTip": "Composite\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-26T00:59:33.159Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-26T00:59:33.159Z"
             }
           ]
         }
