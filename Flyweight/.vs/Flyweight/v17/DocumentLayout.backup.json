@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Douglas\\Estudo\\estudoDesignPatterns\\design-patterns-dotnet-study\\Flyweight\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B03D3EF9-B72F-4B3F-9F82-7AFF3B52ECEF}|Flyweight\\Flyweight.csproj|f:\\douglas\\estudo\\estudodesignpatterns\\design-patterns-dotnet-study\\flyweight\\flyweight\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B03D3EF9-B72F-4B3F-9F82-7AFF3B52ECEF}|Flyweight\\Flyweight.csproj|solutionrelative:flyweight\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B03D3EF9-B72F-4B3F-9F82-7AFF3B52ECEF}|Flyweight\\Flyweight.csproj|f:\\douglas\\estudo\\estudodesignpatterns\\design-patterns-dotnet-study\\flyweight\\flyweight\\flyweightfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B03D3EF9-B72F-4B3F-9F82-7AFF3B52ECEF}|Flyweight\\Flyweight.csproj|solutionrelative:flyweight\\flyweightfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B03D3EF9-B72F-4B3F-9F82-7AFF3B52ECEF}|Flyweight\\Flyweight.csproj|f:\\douglas\\estudo\\estudodesignpatterns\\design-patterns-dotnet-study\\flyweight\\flyweight\\flyweight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B03D3EF9-B72F-4B3F-9F82-7AFF3B52ECEF}|Flyweight\\Flyweight.csproj|solutionrelative:flyweight\\flyweight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B03D3EF9-B72F-4B3F-9F82-7AFF3B52ECEF}|Flyweight\\Flyweight.csproj|f:\\douglas\\estudo\\estudodesignpatterns\\design-patterns-dotnet-study\\flyweight\\flyweight\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B03D3EF9-B72F-4B3F-9F82-7AFF3B52ECEF}|Flyweight\\Flyweight.csproj|solutionrelative:flyweight\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FlyweightFactory.cs",
+              "DocumentMoniker": "F:\\Douglas\\Estudo\\estudoDesignPatterns\\design-patterns-dotnet-study\\Flyweight\\Flyweight\\FlyweightFactory.cs",
+              "RelativeDocumentMoniker": "Flyweight\\FlyweightFactory.cs",
+              "ToolTip": "F:\\Douglas\\Estudo\\estudoDesignPatterns\\design-patterns-dotnet-study\\Flyweight\\Flyweight\\FlyweightFactory.cs",
+              "RelativeToolTip": "Flyweight\\FlyweightFactory.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwEAAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T01:54:29.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Flyweight.cs",
+              "DocumentMoniker": "F:\\Douglas\\Estudo\\estudoDesignPatterns\\design-patterns-dotnet-study\\Flyweight\\Flyweight\\Flyweight.cs",
+              "RelativeDocumentMoniker": "Flyweight\\Flyweight.cs",
+              "ToolTip": "F:\\Douglas\\Estudo\\estudoDesignPatterns\\design-patterns-dotnet-study\\Flyweight\\Flyweight\\Flyweight.cs",
+              "RelativeToolTip": "Flyweight\\Flyweight.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T01:51:43.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Car.cs",
+              "DocumentMoniker": "F:\\Douglas\\Estudo\\estudoDesignPatterns\\design-patterns-dotnet-study\\Flyweight\\Flyweight\\Car.cs",
+              "RelativeDocumentMoniker": "Flyweight\\Car.cs",
+              "ToolTip": "F:\\Douglas\\Estudo\\estudoDesignPatterns\\design-patterns-dotnet-study\\Flyweight\\Flyweight\\Car.cs",
+              "RelativeToolTip": "Flyweight\\Car.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T01:50:40.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\Douglas\\Estudo\\estudoDesignPatterns\\design-patterns-dotnet-study\\Flyweight\\Flyweight\\Program.cs",
+              "RelativeDocumentMoniker": "Flyweight\\Program.cs",
+              "ToolTip": "F:\\Douglas\\Estudo\\estudoDesignPatterns\\design-patterns-dotnet-study\\Flyweight\\Flyweight\\Program.cs",
+              "RelativeToolTip": "Flyweight\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAkwBAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T01:50:25.635Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
