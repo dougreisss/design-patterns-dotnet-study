@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Douglas\\Estudo\\estudoDesignPatterns\\design-patterns-dotnet-study\\Proxy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D40B643A-0A04-4192-8655-304D9C732B67}|Proxy\\Proxy.csproj|f:\\douglas\\estudo\\estudodesignpatterns\\design-patterns-dotnet-study\\proxy\\proxy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D40B643A-0A04-4192-8655-304D9C732B67}|Proxy\\Proxy.csproj|solutionrelative:proxy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D40B643A-0A04-4192-8655-304D9C732B67}|Proxy\\Proxy.csproj|f:\\douglas\\estudo\\estudodesignpatterns\\design-patterns-dotnet-study\\proxy\\proxy\\configuracaoproxy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D40B643A-0A04-4192-8655-304D9C732B67}|Proxy\\Proxy.csproj|solutionrelative:proxy\\configuracaoproxy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D40B643A-0A04-4192-8655-304D9C732B67}|Proxy\\Proxy.csproj|f:\\douglas\\estudo\\estudodesignpatterns\\design-patterns-dotnet-study\\proxy\\proxy\\configuracao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D40B643A-0A04-4192-8655-304D9C732B67}|Proxy\\Proxy.csproj|solutionrelative:proxy\\configuracao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D40B643A-0A04-4192-8655-304D9C732B67}|Proxy\\Proxy.csproj|f:\\douglas\\estudo\\estudodesignpatterns\\design-patterns-dotnet-study\\proxy\\proxy\\iconfiguracao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D40B643A-0A04-4192-8655-304D9C732B67}|Proxy\\Proxy.csproj|solutionrelative:proxy\\iconfiguracao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ConfiguracaoProxy.cs",
+              "DocumentMoniker": "F:\\Douglas\\Estudo\\estudoDesignPatterns\\design-patterns-dotnet-study\\Proxy\\Proxy\\ConfiguracaoProxy.cs",
+              "RelativeDocumentMoniker": "Proxy\\ConfiguracaoProxy.cs",
+              "ToolTip": "F:\\Douglas\\Estudo\\estudoDesignPatterns\\design-patterns-dotnet-study\\Proxy\\Proxy\\ConfiguracaoProxy.cs",
+              "RelativeToolTip": "Proxy\\ConfiguracaoProxy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T01:37:56.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Configuracao.cs",
+              "DocumentMoniker": "F:\\Douglas\\Estudo\\estudoDesignPatterns\\design-patterns-dotnet-study\\Proxy\\Proxy\\Configuracao.cs",
+              "RelativeDocumentMoniker": "Proxy\\Configuracao.cs",
+              "ToolTip": "F:\\Douglas\\Estudo\\estudoDesignPatterns\\design-patterns-dotnet-study\\Proxy\\Proxy\\Configuracao.cs",
+              "RelativeToolTip": "Proxy\\Configuracao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T01:35:20.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IConfiguracao.cs",
+              "DocumentMoniker": "F:\\Douglas\\Estudo\\estudoDesignPatterns\\design-patterns-dotnet-study\\Proxy\\Proxy\\IConfiguracao.cs",
+              "RelativeDocumentMoniker": "Proxy\\IConfiguracao.cs",
+              "ToolTip": "F:\\Douglas\\Estudo\\estudoDesignPatterns\\design-patterns-dotnet-study\\Proxy\\Proxy\\IConfiguracao.cs",
+              "RelativeToolTip": "Proxy\\IConfiguracao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T01:33:56.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\Douglas\\Estudo\\estudoDesignPatterns\\design-patterns-dotnet-study\\Proxy\\Proxy\\Program.cs",
+              "RelativeDocumentMoniker": "Proxy\\Program.cs",
+              "ToolTip": "F:\\Douglas\\Estudo\\estudoDesignPatterns\\design-patterns-dotnet-study\\Proxy\\Proxy\\Program.cs",
+              "RelativeToolTip": "Proxy\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T01:33:42.954Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
